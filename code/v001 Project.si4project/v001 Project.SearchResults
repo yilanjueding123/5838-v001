@@ -1,0 +1,4 @@
+---- SD_POS Matches (3 in 2 files) ----
+driver_l1_cfg.h (F:\work\item\5838\v001\program\project\turnkey_gpcv1248_cvr\inc) line 119 : #define SD_POS                      SDC1_IOD10_IOD11_IOC13_IOD13_IOC14_IOC15
+gpio_pad_init2 in drv_l1_gpio.c (F:\work\item\5838\v001\program\driver_l1\common\src) : 	switch(SD_POS)
+gpio_drving_init in drv_l1_gpio.c (F:\work\item\5838\v001\program\driver_l1\common\src) : 	switch(SD_POS)
